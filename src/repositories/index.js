@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({args: ['--no-sandbox']});
   const page = await browser.newPage();
   await page.goto('https://lista.mercadolivre.com.br/informatica/componentes-pc/memorias-ram');
   const hardwareList = await page.evaluate(() => {
@@ -53,7 +53,7 @@ const fs = require('fs');
 })();
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({args: ['--no-sandbox']});
   const page = await browser.newPage();
   await page.goto('https://lista.mercadolivre.com.br/informatica/componentes-pc/processadores_NoIndex_True#applied_filter_id%3Dcategory%26applied_filter_name%3DCategorias%26applied_filter_order%3D5%26applied_value_id%3DMLB1712%26applied_value_name%3DComponentes+para+PC%26applied_value_order%3D10%26applied_value_results%3D52181%26is_custom%3Dfalse');
   const hardwareList = await page.evaluate(() => {
@@ -104,7 +104,7 @@ const fs = require('fs');
 })();
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({args: ['--no-sandbox']});
   const page = await browser.newPage();
   await page.goto('https://lista.mercadolivre.com.br/informatica/componentes-pc/discos-acessorios/hds-ssds');
   const hardwareList = await page.evaluate(() => {
@@ -154,7 +154,7 @@ const fs = require('fs');
 })();
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({args: ['--no-sandbox']});
   const page = await browser.newPage();
   await page.goto('https://lista.mercadolivre.com.br/placas-video');
   const hardwareList = await page.evaluate(() => {
