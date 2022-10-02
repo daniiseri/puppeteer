@@ -8,7 +8,7 @@ const fs = require('fs');
   const hardwareList = await page.evaluate(() => {
     // pegar toda li que estão dentro de section
     const imgNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer img.ui-search-result-image__element.shops__image-element');
-    const descriptionNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer ol li h2.ui-search-item__title.ui-search-item__group__element.shops-custom-secondary-font');
+    const descriptionNodeList = document.querySelectorAll('h2.ui-search-item__title');
     const priceNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer ol li div.ui-search-price__second-line span.price-tag-amount');
     const linkNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer a.ui-search-link');
     //transformar o node list em array
