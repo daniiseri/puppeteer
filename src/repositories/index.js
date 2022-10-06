@@ -202,3 +202,53 @@ const fs = require('fs');
 
   await browser.close();
 })();
+
+(async () => {
+  const browser = await puppeteer.launch({args: ['--no-sandbox']});
+  const page = await browser.newPage();
+  await page.goto('https://lista.mercadolivre.com.br/desktop');
+  const hardwareList = await page.evaluate(() => {
+    // pegar toda li que estão dentro de section
+    const imgNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer img.ui-search-result-image__element.shops__image-element');
+    const descriptionNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer h2');
+    const priceNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer div.ui-search-price__second-line span.price-tag-amount');
+    const linkNodeList = document.querySelectorAll('section.ui-search-results.ui-search-results--without-disclaimer a.ui-search-link');
+    //transformar o node list em array
+    const priceArray = [...priceNodeList];
+    const imgArray = [...imgNodeList];
+    const descriptionArray = [...descriptionNodeList];
+    const linkArray = [...linkNodeList];
+    //transformar os nodes (elementos html) em objetos JS
+    const priceList = priceArray.filter((price, index) => index % 2 == 0)
+                        .map(({outerText}, index) => {
+                          const [ , int,  , res] = outerText.split('\n');
+                          return res ? Number(int + '.' + res) : Number(int);
+                        });
+
+    const imgList = imgArray.map(({dataset:{src}, src:outher}) => {
+      return src ? src : outher;
+    });
+
+    const descriptionList = descriptionArray.map(({outerText}) => outerText);
+
+    const linkList = linkArray.filter((link, index) => index % 2 === 0)
+      .map(({href}) => href);
+    
+    const hardwareList = descriptionList.map((description, index) => {
+      const img = imgList.find((value, i) => i == index);
+      const price = priceList.find((value, i) => i == index);
+      const link = linkList.find((value, i) => i == index);
+
+      return {description, price, img, link};
+    })
+    return hardwareList;
+  });
+  //escrever em um arquivo json
+  fs.writeFile('src/repositories/desktop.json', JSON.stringify(hardwareList, null, 2), err => {
+    if(err) throw new Error('something wen wrong');
+
+    console.log('well done!');
+  });
+
+  await browser.close();
+})();
