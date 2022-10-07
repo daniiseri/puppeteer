@@ -1,16 +1,7 @@
 const routes = require('express').Router();
 
-const hardDisc = require('./repositories/hard-disc.json');
-const processor = require('./repositories/processor.json');
-const memory = require('./repositories/memory.json');
-const videoCard = require('./repositories/video-card.json');
-const desktop = require('./repositories/desktop.json');
-const cooler = require('./repositories/cooler.json');
-const font = require('./repositories/font.json');
-const motherboard = require('./repositories/motherboard.json');
-
 routes.get('/hard-disc', (req, res)=>{
-  const payload = hardDisc; 
+  const payload = require('./repositories/hard-disc.json'); 
 
   if(!payload)
     return res.status(400).send('not found');
@@ -19,7 +10,7 @@ routes.get('/hard-disc', (req, res)=>{
 })
 
 routes.get('/processor', (req, res)=>{
-  const payload = processor;
+  const payload = require('./repositories/processor.json');;
 
   if(!payload)
     return res.status(400).send('not found');
@@ -28,7 +19,7 @@ routes.get('/processor', (req, res)=>{
 })
 
 routes.get('/video-card', (req, res)=>{
-  const payload = videoCard;
+  const payload = require('./repositories/video-card.json');
 
   if(!payload)
     return res.status(400).send('not found');
@@ -37,7 +28,7 @@ routes.get('/video-card', (req, res)=>{
 })
 
 routes.get('/memory', (req, res)=>{
-  const payload = memory;
+  const payload = require('./repositories/memory.json');
 
   if(!payload)
     return res.send('not found');
@@ -46,7 +37,7 @@ routes.get('/memory', (req, res)=>{
 })
 
 routes.get('/desktop', (req, res)=>{
-  const payload = desktop;
+  const payload = require('./repositories/desktop.json');
 
   if(!payload)
     return res.send('not found');
@@ -55,7 +46,7 @@ routes.get('/desktop', (req, res)=>{
 })
 
 routes.get('/cooler', (req, res)=>{
-  const payload = cooler;
+  const payload = require('./repositories/cooler.json');
 
   if(!payload)
     return res.send('not found');
@@ -64,7 +55,7 @@ routes.get('/cooler', (req, res)=>{
 })
 
 routes.get('/font', (req, res)=>{
-  const payload = font;
+  const payload = require('./repositories/font.json');
 
   if(!payload)
     return res.send('not found');
@@ -73,7 +64,7 @@ routes.get('/font', (req, res)=>{
 })
 
 routes.get('/motherboard', (req, res)=>{
-  const payload = motherboard;
+  const payload = require('./repositories/motherboard.json');
 
   if(!payload)
     return res.send('not found');

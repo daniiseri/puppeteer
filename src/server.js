@@ -1,4 +1,3 @@
-require('./repositories/index');
 const routes = require('./routes');
 
 const express = require('express');
@@ -12,5 +11,5 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(PORT, ()=>{
-  console.log(`Servido rodando em: http://localhost:3000`);
+  console.log(`Servido rodando em: http://localhost:${PORT}`);
 })
