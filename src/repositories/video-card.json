@@ -1,290 +1,326 @@
 [
   {
-    "description": "Placa de vídeo AMD Gigabyte Gaming Radeon RX 5600 Series RX 5600 XT GV-R56XTGAMING OC-6GD OC Edition 6GB",
-    "price": 2.48,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_603361-MLA41691729221_052020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-gigabyte-gaming-radeon-rx-5600-series-rx-5600-xt-gv-r56xtgaming-oc-6gd-oc-edition-6gb/p/MLB15576999?pdp_filters=category:MLB1658#searchVariation=MLB15576999&position=1&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Galax GeForce 10 Series GTX 1050 Ti 50IQH8DSQ31C OC Edition 4GB",
-    "price": 1.577,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_947178-MLA43324199160_082020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-10-series-gtx-1050-ti-50iqh8dsq31c-oc-edition-4gb/p/MLB15971031?pdp_filters=category:MLB1658#searchVariation=MLB15971031&position=2&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 30 Series RTX 3070 GEFORCE RTX 3070 VENTUS 2X OC OC Edition 8GB",
-    "price": 5.699,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_834146-MLA44845660413_022021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-30-series-rtx-3070-geforce-rtx-3070-ventus-2x-oc-oc-edition-8gb/p/MLB16598356?pdp_filters=category:MLB1658#searchVariation=MLB16598356&position=3&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 30 Series RTX 3090 GEFORCE RTX 3090 VENTUS 3X 24G 24GB",
-    "price": 10.048,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_880757-MLA44393971798_122020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-30-series-rtx-3090-geforce-rtx-3090-ventus-3x-24g-24gb/p/MLB16262343?pdp_filters=category:MLB1658#searchVariation=MLB16262343&position=4&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Asus Dual Radeon RX 5600 Series RX 5600 XT DUAL-RX5600XT-T6G-EVO 6GB",
-    "price": 3.499,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_876069-MLA44205054913_112020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-asus-dual-radeon-rx-5600-series-rx-5600-xt-dual-rx5600xt-t6g-evo-6gb/p/MLB16179637?pdp_filters=category:MLB1658#searchVariation=MLB16179637&position=5&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Asus Dual Radeon RX 500 Series RX 580 DUAL-RX580-O8G OC Edition 8GB",
-    "price": 4.157,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_674675-MLA40033556887_122019-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-asus-dual-radeon-rx-500-series-rx-580-dual-rx580-o8g-oc-edition-8gb/p/MLB14947756?pdp_filters=category:MLB1658#searchVariation=MLB14947756&position=6&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Gigabyte Gaming GeForce RTX 30 Series RTX 3080 GV-N3080GAMING OC-10GD (rev. 1.0) 10GB",
-    "price": 6.44,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_695426-MLA48688309706_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-gaming-geforce-rtx-30-series-rtx-3080-gv-n3080gaming-oc-10gd-rev-10-10gb/p/MLB18618055?pdp_filters=category:MLB1658#searchVariation=MLB18618055&position=7&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia Palit GeForce GTX 16 Series GTX 1660 SUPER NE6166S018J9-161F 6GB",
+    "price": 1.499,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_820136-MLA48689881845_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-geforce-gtx-16-series-gtx-1660-super-ne6166s018j9-161f-6gb/p/MLB18546742?pdp_filters=category:MLB1658#searchVariation=MLB18546742&position=1&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
     "description": "Placa de vídeo AMD Afox Radeon R5 Series R5 220 AFR5220-2048D3L9-V2 2GB",
-    "price": 248.54,
+    "price": 246,
     "img": "https://http2.mlstatic.com/D_NQ_NP_767953-MLA44250944502_122020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-afox-radeon-r5-series-r5-220-afr5220-2048d3l9-v2-2gb/p/MLB15915536?pdp_filters=category:MLB1658#searchVariation=MLB15915536&position=8&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-afox-radeon-r5-series-r5-220-afr5220-2048d3l9-v2-2gb/p/MLB15915536?pdp_filters=category:MLB1658#searchVariation=MLB15915536&position=2&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
-    "description": "Placa de vídeo Nvidia Gigabyte GeForce 10 Series GT 1030 GV-N1030D5-2GL 2GB",
-    "price": 898,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_791657-MLA42136065749_062020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-geforce-10-series-gt-1030-gv-n1030d5-2gl-2gb/p/MLB14140952?pdp_filters=category:MLB1658#searchVariation=MLB14140952&position=9&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Sapphire Pulse Radeon RX 500 Series RX 550 11268-01 4GB",
-    "price": 600,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_769093-MLA42633827801_072020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-sapphire-pulse-radeon-rx-500-series-rx-550-11268-01-4gb/p/MLB15776683?pdp_filters=category:MLB1658#searchVariation=MLB15776683&position=10&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Gigabyte Aorus GeForce RTX 30 Series RTX 3070 GV-N3070AORUS M-8GD (REV 1.0/1.1) 8GB",
-    "price": 14.062,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_926485-MLA45333660391_032021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-aorus-geforce-rtx-30-series-rtx-3070-gv-n3070aorus-m-8gd-rev-1011-8gb/p/MLB16995801?pdp_filters=category:MLB1658#searchVariation=MLB16995801&position=11&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD XFX Radeon RX 6700 Series RX 6700 XT RX-67XTYPBDP 12GB",
-    "price": 4.059,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_633056-MLA48657303261_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-xfx-radeon-rx-6700-series-rx-6700-xt-rx-67xtypbdp-12gb/p/MLB18593845?pdp_filters=category:MLB1658#searchVariation=MLB18593845&position=12&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Afox Radeon RX 500 Series RX 550 AFRX550-2048D5H4 2GB",
-    "price": 569,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_933390-MLA44250944451_122020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-afox-radeon-rx-500-series-rx-550-afrx550-2048d5h4-2gb/p/MLB16217896?pdp_filters=category:MLB1658#searchVariation=MLB16217896&position=13&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Video Pcyes Geforce Nvidia G210 1gb Ddr3 - 64 Bits",
-    "price": 229,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_985008-MLB31204852969_062019-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-963532902-placa-de-video-pcyes-geforce-nvidia-g210-1gb-ddr3-64-bits-_JM#position=38&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia PNY RTX Series A4000 VCNRTXA4000-PB 16GB",
-    "price": 12.503,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_808237-MLA48657674422_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-pny-rtx-series-a4000-vcnrtxa4000-pb-16gb/p/MLB18446933?pdp_filters=category:MLB1658#searchVariation=MLB18446933&position=14&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Vídeo Dazz Geforce Gt730 2gb Ddr3 64bit Single Fan",
-    "price": 394.9,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_960809-MLB49843081506_052022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2630962704-placa-de-video-dazz-geforce-gt730-2gb-ddr3-64bit-single-fan-_JM#position=39&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Asus Dual GeForce RTX 30 Series RTX 3070 DUAL-RTX3070-O8G-V2 OC Edition 8GB",
-    "price": 4.596,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_661106-MLA51746024404_092022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-asus-dual-geforce-rtx-30-series-rtx-3070-dual-rtx3070-o8g-v2-oc-edition-8gb/p/MLB18519492?pdp_filters=category:MLB1658#searchVariation=MLB18519492&position=15&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Gigabyte Gaming GeForce RTX 30 Series RTX 3080 GV-N3080GAMING OC-10GD (rev. 2.0) 10GB",
-    "price": 8.413,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_916118-MLA48658819044_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-gaming-geforce-rtx-30-series-rtx-3080-gv-n3080gaming-oc-10gd-rev-20-10gb/p/MLB18618057?pdp_filters=category:MLB1658#searchVariation=MLB18618057&position=16&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Video Afox Geforce Gt220 1gb Ddr3 Dvi/hdmi/vga",
-    "price": 222.9,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_808966-MLB50423207916_062022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2689628907-placa-de-video-afox-geforce-gt220-1gb-ddr3-dvihdmivga-_JM#position=40&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia Pcyes GeForce 200 Series G210 PA210G6401D3LP 1GB",
+    "price": 210,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_853689-MLA50952970948_082022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-pcyes-geforce-200-series-g210-pa210g6401d3lp-1gb/p/MLB19487151?pdp_filters=category:MLB1658#searchVariation=MLB19487151&position=3&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
     "description": "Placa de vídeo AMD Dex Radeon R7 200 Series R7 240 PV-04A 2GB",
     "price": 456,
     "img": "https://http2.mlstatic.com/D_NQ_NP_849429-MLA47176843389_082021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-dex-radeon-r7-200-series-r7-240-pv-04a-2gb/p/MLB16263829?pdp_filters=category:MLB1658#searchVariation=MLB16263829&position=17&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Galax GeForce RTX 20 Series RTX 2060 SUPER 26ISL6HP68LD OC Edition 8GB",
-    "price": 2.138,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_960860-MLA45732573152_042021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-20-series-rtx-2060-super-26isl6hp68ld-oc-edition-8gb/p/MLB16076950?pdp_filters=category:MLB1658#searchVariation=MLB16076950&position=18&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa Vídeo R9 270x 2gb Powercolor Devil Com Garantia",
-    "price": 680,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_843954-MLB32385305955_102019-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2616742553-placa-video-r9-270x-2gb-powercolor-devil-com-garantia-_JM#position=41&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Gainward Phoenix GeForce RTX 30 Series RTX 3070 GEFORCE RTX 3070 Phoenix 8GB",
-    "price": 4.95,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_640531-MLA44178526059_112020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gainward-phoenix-geforce-rtx-30-series-rtx-3070-geforce-rtx-3070-phoenix-8gb/p/MLB16213593?pdp_filters=category:MLB1658#searchVariation=MLB16213593&position=19&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Galax GeForce GTX 16 Series GTX 1660 60SRH7DSY91C 6GB",
-    "price": 1.519,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_695979-MLA40023007473_122019-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-gtx-16-series-gtx-1660-60srh7dsy91c-6gb/p/MLB14947754?pdp_filters=category:MLB1658#searchVariation=MLB14947754&position=20&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-dex-radeon-r7-200-series-r7-240-pv-04a-2gb/p/MLB16263829?pdp_filters=category:MLB1658#searchVariation=MLB16263829&position=4&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
     "description": "Placa de vídeo Nvidia Palit Dual NE63050019P1-190AD 8GB",
-    "price": 1.989,
+    "price": 1.899,
     "img": "https://http2.mlstatic.com/D_NQ_NP_784664-MLA50137393633_052022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-dual-ne63050019p1-190ad-8gb/p/MLB19132464?pdp_filters=category:MLB1658#searchVariation=MLB19132464&position=21&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-dual-ne63050019p1-190ad-8gb/p/MLB19132464?pdp_filters=category:MLB1658#searchVariation=MLB19132464&position=5&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
-    "description": "Placa De Video Afox Geforce Gt 220 1gb Low Profile Gt220",
-    "price": 217,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_785260-MLB51547099730_092022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2798538217-placa-de-video-afox-geforce-gt-220-1gb-low-profile-gt220-_JM#position=42&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia Pcyes GeForce 700 Series GT 740 PA740GT12804D5FZ 4GB",
+    "price": 749,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_682629-MLA47176797846_082021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-pcyes-geforce-700-series-gt-740-pa740gt12804d5fz-4gb/p/MLB15798325?pdp_filters=category:MLB1658#searchVariation=MLB15798325&position=6&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
-    "description": "Placa De Vídeo Amd Radeon R5 430 2gb Displayport/dvi",
-    "price": 339.99,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_788214-MLB51667403639_092022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2812869052-placa-de-video-amd-radeon-r5-430-2gb-displayportdvi-_JM#position=43&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Kllisre GeForce 700 Series GTX 750 Ti 4GB",
-    "price": 991.11,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_848940-MLA48741662386_012022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-kllisre-geforce-700-series-gtx-750-ti-4gb/p/MLB18597179?pdp_filters=category:MLB1658#searchVariation=MLB18597179&position=22&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Pcyes Radeon RX 500 Series RX 550 PJRX550DR5128B 4GB",
-    "price": 754,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_603442-MLA49843609431_052022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-rx-500-series-rx-550-pjrx550dr5128b-4gb/p/MLB19072272?pdp_filters=category:MLB1658#searchVariation=MLB19072272&position=23&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Vídeo 2gb Ddr3 64bits Pcyes Nvidia Gt610 Lowprofile",
-    "price": 309,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_848720-MLB47747116731_102021-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2043863457-placa-de-video-2gb-ddr3-64bits-pcyes-nvidia-gt610-lowprofile-_JM#position=44&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Gigabyte Windforce Radeon RX 5600 Series RX 5600 XT GV-R56XTWF2OC-6GD OC Edition 6GB",
-    "price": 2.373,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_653325-MLA48790234007_012022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-gigabyte-windforce-radeon-rx-5600-series-rx-5600-xt-gv-r56xtwf2oc-6gd-oc-edition-6gb/p/MLB18617717?pdp_filters=category:MLB1658#searchVariation=MLB18617717&position=24&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Knup GeForce GTX 500 Series GTX 550 Ti KP-GTX550TI 1GB",
-    "price": 440,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_646268-MLA51618199696_092022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-knup-geforce-gtx-500-series-gtx-550-ti-kp-gtx550ti-1gb/p/MLB19615416?pdp_filters=category:MLB1658#searchVariation=MLB19615416&position=25&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD MSI Aero ITX Radeon RX 6400 Series RX 6400 Radeon RX 6400 AERO ITX 4G 4GB",
-    "price": 1.322,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_789482-MLA51046960780_082022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-msi-aero-itx-radeon-rx-6400-series-rx-6400-radeon-rx-6400-aero-itx-4g-4gb/p/MLB19517105?pdp_filters=category:MLB1658#searchVariation=MLB19517105&position=26&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Video Evga Nvidia Geforce Gt 520 1gb Gddr3 64bit",
-    "price": 150,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_845864-MLB51744762373_092022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2823350780-placa-de-video-evga-nvidia-geforce-gt-520-1gb-gddr3-64bit-_JM#position=45&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 30 Series RTX 3060 Ti GEFORCE RTX 3060 Ti VENTUS 2X 8G OCV1 LHR 8GB",
-    "price": 4.029,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_619037-MLA48655683518_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-30-series-rtx-3060-ti-geforce-rtx-3060-ti-ventus-2x-8g-ocv1-lhr-8gb/p/MLB18442694?pdp_filters=category:MLB1658#searchVariation=MLB18442694&position=27&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Gainward Ghost GeForce GTX 16 Series GTX 1660 NE51660018J9-1161X 6GB",
-    "price": 2.199,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_757545-MLA45375225589_032021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gainward-ghost-geforce-gtx-16-series-gtx-1660-ne51660018j9-1161x-6gb/p/MLB16015035?pdp_filters=category:MLB1658#searchVariation=MLB16015035&position=28&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 30 Series RTX 3060 GEFORCE RTX 3060 VENTUS 3X 12G OC 12GB",
-    "price": 2.777,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_667938-MLA48657941510_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-30-series-rtx-3060-geforce-rtx-3060-ventus-3x-12g-oc-12gb/p/MLB18623930?pdp_filters=category:MLB1658#searchVariation=MLB18623930&position=29&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo AMD Afox Radeon R5 200 Series R5 220 AFR5220-2048D3L5-V2 2GB",
-    "price": 243,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_856395-MLA48735890384_012022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-afox-radeon-r5-200-series-r5-220-afr5220-2048d3l5-v2-2gb/p/MLB18557595?pdp_filters=category:MLB1658#searchVariation=MLB18557595&position=30&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Palit GamingPro GeForce RTX 30 Series RTX 3080 Ti NED308T019KB-132AA 12GB",
-    "price": 7.486,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_990064-MLA48658190884_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-gamingpro-geforce-rtx-30-series-rtx-3080-ti-ned308t019kb-132aa-12gb/p/MLB18595236?pdp_filters=category:MLB1658#searchVariation=MLB18595236&position=31&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Galax GeForce RTX 30 Series RTX 3070 EX LHR 37NSL6MD2VXI 8GB",
-    "price": 4,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_721781-MLA51325230740_082022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-30-series-rtx-3070-ex-lhr-37nsl6md2vxi-8gb/p/MLB19563368?pdp_filters=category:MLB1658#searchVariation=MLB19563368&position=32&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa de vídeo Nvidia Galax GeForce RTX 30 Series RTX 3070 37NSL6MD2KOC 8GB",
-    "price": 4.624,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_737704-MLA46480624011_062021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-30-series-rtx-3070-37nsl6md2koc-8gb/p/MLB17820488?pdp_filters=category:MLB1658#searchVariation=MLB17820488&position=33&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Vídeo Pcyes Gt 610 Nvidia 2gb Ddr3 Hdmi Dvi Vga X16",
-    "price": 299,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_848720-MLB47747116731_102021-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2043915555-placa-de-video-pcyes-gt-610-nvidia-2gb-ddr3-hdmi-dvi-vga-x16-_JM#position=46&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Vídeo Nvidia Geforce Gtx 550 Ti 1gb 128bit Ddr5",
-    "price": 440,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_767399-MLB51370834636_092022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2772313594-placa-de-video-nvidia-geforce-gtx-550-ti-1gb-128bit-ddr5-_JM#position=47&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
-  },
-  {
-    "description": "Placa De Vídeo Nvdia Quadro K1200 4gb Ddr5",
-    "price": 1.5,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_859307-MLB51199685016_082022-W.webp",
-    "link": "https://produto.mercadolivre.com.br/MLB-2764345602-placa-de-video-nvdia-quadro-k1200-4gb-ddr5-_JM#position=48&search_layout=grid&type=item&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia Galax GeForce RTX 20 Series RTX 2060 SUPER 26ISL6HP68LD OC Edition 8GB",
+    "price": 2.25,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_960860-MLA45732573152_042021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-20-series-rtx-2060-super-26isl6hp68ld-oc-edition-8gb/p/MLB16076950?pdp_filters=category:MLB1658#searchVariation=MLB16076950&position=7&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
     "description": "Placa de vídeo AMD Pcyes Radeon HD 6000 Series HD 6570 PJ6570HDR5SF4GB 4GB",
     "price": 516.9,
     "img": "https://http2.mlstatic.com/D_NQ_NP_735037-MLA49111076072_022022-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-hd-6000-series-hd-6570-pj6570hdr5sf4gb-4gb/p/MLB18935280?pdp_filters=category:MLB1658#searchVariation=MLB18935280&position=34&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-hd-6000-series-hd-6570-pj6570hdr5sf4gb-4gb/p/MLB18935280?pdp_filters=category:MLB1658#searchVariation=MLB18935280&position=8&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
-    "description": "Placa de vídeo Nvidia Palit GeForce GTX 16 Series GTX 1660 SUPER NE6166S018J9-161F 6GB",
-    "price": 1.499,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_820136-MLA48689881845_122021-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-geforce-gtx-16-series-gtx-1660-super-ne6166s018j9-161f-6gb/p/MLB18546742?pdp_filters=category:MLB1658#searchVariation=MLB18546742&position=35&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia Galax GeForce 10 Series GTX 1050 Ti 50IQH8DSQ31C OC Edition 4GB",
+    "price": 1.577,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_947178-MLA43324199160_082020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-10-series-gtx-1050-ti-50iqh8dsq31c-oc-edition-4gb/p/MLB15971031?pdp_filters=category:MLB1658#searchVariation=MLB15971031&position=9&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Dex GeForce 700 Series GTX 750 Ti PV-07 2GB",
+    "price": 842.86,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_906799-MLA43833546182_102020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-dex-geforce-700-series-gtx-750-ti-pv-07-2gb/p/MLB16138797?pdp_filters=category:MLB1658#searchVariation=MLB16138797&position=10&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa De Video 4gb Gpu Gt730 Ddr3 128 Bit Hdmi Dvi Vga C Nf",
+    "price": 664,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_940885-MLB51512163880_092022-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=F4XigAa%2FpugwFA0jff6oJrFgD60uOn8cSfs27rszcmS%2Bh4xpe6IjQP%2BkU%2FcYZSZi4siG5OY0Cgiie40jOCi7yin0jnzR854R1Sozjtsj3HvkEKC2I7hgJY4DHS0e0TbmtX1eCzPiBKEppyDVk46RRn3d9GEKjNGAwwgbVbl73AWRGna4HAUixjuoJZBci%2FvgIGok5IHCV21kvQ%2Br58Vkfsk0yqh3X70Q7EtY6%2F9UMjLbJLpMr4Fj%2Bl05l6%2BFY2tAcosEj8mXTtKpTFPGJZwOCZUJu4uS6PkjAyAJcmTdIr2GszZDBHZItcgBBPoSsfW0BNebQyCrK%2FQ3Dd2U0EsJy%2BImhWPZOCwCJ4lsXa3l%2Bgt5i%2BPpbgSI0jsguJMj6sXq8lpeygBBEOfqp9mDhTRkmtXeVmpCOSm7phAd9uO3OQYZongh0JlJmu1DXdR0u3Xh80oELRY5ACaSSzKJ6y6a0jRHZh1egAmeAsaNmwKruVnGw2J%2FVHDP08F%2FslHd6810YrG7Z5yEixRJ%2B8UkhMgSvU70YjVmDNMoASwzH%2F3d65Y94MauPWAWFQRYbKYTfOf%2FtBemWx9SNcZpOHxfg%2BUNSrUYsHC3gOX8ZC6ohzGoJJkmqg3TxfOdiEhqicKMSxn5WXJe8DG1ByXbjTBfh%2Fh8TuQSw5ByYdXpVAtAXGtekxviEVcKoAPwGH2P0PA7eFGasZTlYXfOdI6WXX6J5SRnF8p%2BGflLAcgZBTFlHJ0lCXdBt7rr4VgEvSz9V92hjzLUWUEUpY3qvSGMywJA6gRTN9qNj48OQL2C1wzndcwzyZm4Lg%3D%3D&rb=x"
+  },
+  {
+    "description": "Placa De Video Gigabyte Gtx 1650 4gb Oc Gddr5 Low Profile",
+    "price": 1.82,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_760413-MLB50054250496_052022-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=LgSgsK2nDVPB%2FlcupMzhu3D%2Frkbwf%2FMY1aNdzz7sOJ3hw0XNmbipSYpkOLJmkxH7YLnh1EPgcRyG3iR1K2IUeAO0pLnTXqAW1x0vLzk8bYKBdJhTkurrPk3Mfy81hHZJ7Www1R5LlY%2FJwDnjQqgdi0PUyAeu3YHIA7CWujjRrOOOad0AjmuGgE0BoVovOUmsd2mxlkBRsYuMrFWoshQJjhq35NZRdoH3HwhzTQq6GUbbTgo1UVLkm37DQBnjghR9%2Fr5BPcQJSH8xtd2nkNNEENRBY%2FI4qqCIimZNZbuAtixJZiu5ZXVg1wwfqEmF68iK1xgYWIBz%2FFeGzThLNNF73iVEwfQ3tbs%2B93hYqVjWF6uukbToThZbdtp116Ly4dJk6qqNjpWuxa0u0t1tk2vmNeu6MPSMEW42X28tTxZCRyZpOpDvKFpUpcaHB%2FHGLXN4L0EpS91ekev%2B3hgttdfAGRrcUlmYhsNQVySRyDh8A5kxTQxctmFkCtPtG0aPfmPVqXmirdqS%2BLwdAwhc%2F7al7%2FlTVgn7wv0LovB%2BKf2PrPoY2vMYz0cieV97JY%2FoT0xH%2B5TI7COhx6vi3DPsiNlDMhyw8LdKrcl10uyPIapYc959f%2Fzob7MT0jeKuvkeeMsToVdXiVqkqvywOzwx7fE9eKLKT%2BXNYeBuTNup7XR%2Bz09p78XR50MqMhB0vjBirosRsGEJ8Z%2F3Dr5MNyWccp8TSzOMuuskK%2Fg4SGcFMjY7mtlBlFUH0OoFOeToEWxU%2Fppm%2FFbzGONghCDefghQnIwSSrIU6cCMuHwIjuzNwpmrkig%3D&rb=x"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Knup GeForce 200 Series GT 210 KP-GT210 1GB",
+    "price": 249.99,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_734886-MLA40033556886_122019-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-knup-geforce-200-series-gt-210-kp-gt210-1gb/p/MLB15156879?pdp_filters=category:MLB1658#searchVariation=MLB15156879&position=13&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Pcyes GeForce 700 Series GT 730 PJGT7304GB64 4GB",
+    "price": 721.05,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_635777-MLA49635507127_042022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-pcyes-geforce-700-series-gt-730-pjgt7304gb64-4gb/p/MLB19043046?pdp_filters=category:MLB1658#searchVariation=MLB19043046&position=14&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Palit StormX GeForce GTX 10 Series GTX 1050 Ti NE5105T018G1-1070F 4GB",
+    "price": 1.379,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_831194-MLA48654781236_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-stormx-geforce-gtx-10-series-gtx-1050-ti-ne5105t018g1-1070f-4gb/p/MLB18630853?pdp_filters=category:MLB1658#searchVariation=MLB18630853&position=15&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD PowerColor Red Dragon Radeon RX 500 Series RX 550 AXRX 550 4GBD5-DH 4GB",
+    "price": 990,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_860951-MLA43401240604_092020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-powercolor-red-dragon-radeon-rx-500-series-rx-550-axrx-550-4gbd5-dh-4gb/p/MLB15997561?pdp_filters=category:MLB1658#searchVariation=MLB15997561&position=16&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce GTX 16 Series GTX 1660 Ti 60IRL7DSY91C 6GB",
+    "price": 1.839,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_645356-MLA32007146900_082019-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-gtx-16-series-gtx-1660-ti-60irl7dsy91c-6gb/p/MLB14157583?pdp_filters=category:MLB1658#searchVariation=MLB14157583&position=17&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Asus Phoenix GeForce GTX 16 Series GTX 1650 PH-GTX1650-O4GD6 OC Edition 4GB",
+    "price": 1.64,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_765461-MLA44911778508_022021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-asus-phoenix-geforce-gtx-16-series-gtx-1650-ph-gtx1650-o4gd6-oc-edition-4gb/p/MLB16189996?pdp_filters=category:MLB1658#searchVariation=MLB16189996&position=18&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Pcyes Single Fan Radeon HD 6000 Series HD 6570 PJHD6570GR54GSF Gaming Edition 4GB",
+    "price": 514,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_609147-MLA51043031709_082022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-single-fan-radeon-hd-6000-series-hd-6570-pjhd6570gr54gsf-gaming-edition-4gb/p/MLB19516374?pdp_filters=category:MLB1658#searchVariation=MLB19516374&position=19&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Pcyes Radeon RX 500 Series RX 550 PJRX550DR5128B 4GB",
+    "price": 745,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_603442-MLA49843609431_052022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-rx-500-series-rx-550-pjrx550dr5128b-4gb/p/MLB19072272?pdp_filters=category:MLB1658#searchVariation=MLB19072272&position=20&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Pcyes Radeon HD 6000 Series HD 6570 PJ6570HDR3SF 2GB",
+    "price": 530,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_882547-MLA50864548811_072022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-hd-6000-series-hd-6570-pj6570hdr3sf-2gb/p/MLB19457370?pdp_filters=category:MLB1658#searchVariation=MLB19457370&position=21&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa De Video Afox Geforce Gt 730 4gb Gddr3",
+    "price": 614.99,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_730170-MLB48812359088_012022-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=N%2F9O7mSi0%2BzMzPQE3zmlya%2Fd7xbAde1MSdh0UPCBAG%2FAg7f7aM%2BmHwxAkT5QR3c9RcSQRrL4UD%2B%2Bu%2FenYbrdvmsOKQVbPhfiNGuS4zbMnp0hCaAFCT7bmnYtDcInIz7hVXVIRZ1aOysMwRr7w8Z8j%2Fq3Pmm4J7R4hS9ao8T6y2ASeGPKph3EGemGzn8%2BH2Ix6OYGLISZUJdyRm8xrdJKUHlZPZ6QyLUs%2Ff5Lvi%2Bhfo9e%2Bg980c6AWT%2BPI%2F%2BKUYxD1btqn20tMfEPnBqvFEHoyBPNmNXn%2BpuNcNuyGm9nA8T%2FolopClxasIsRMCEDNO1eBE52p%2FYQtbSaRFnLv%2FCD3u9V8IvZ5chmRt%2BSySuK9uC5QSt7nvokTA4tThetANhM20s4UQ%2B6CVLs4T7IT2w2kpJ6bMqLZ7T7DxjxBRx8nv1FIMONPYeHLMzToRAuFja0t1db5JZ8rKKkj78rg5IQzJXWjt8uEdSL%2FIjXC0W8N7vFfhcE2SbakPMxC1Fx1E0iDLlME0Tijfg%2FmzIfox%2FlbbYJmUFchgFyQEGw0%2F%2FTp01FhvxSXHnLD80Vt2h5ua1W6ZbhJWKhdYiSxhNtfe%2BDDZkOIqNlYy20EPGLBFdZsbyoyPplsiPW2gbquyBvXwIe0csr%2BhhWWwFzUaZSSJFB9TdHqcf9gUsvgzVot%2FRA1XnD4HG9%2FQ26s0%2FD%2FoiFtgXVXUBNGfBGiIMj1rtKOdoqAj3Itk2X00A0Hwtuq67Z2Anj6%2FL75VXOodH0N5hXa2GOondPOnfWhax6oKUKwdccHdc%3D&rb=x"
+  },
+  {
+    "description": "Placa De Vídeo Nvidia Pcyes Geforce Gtx 1050 2gb Ddr5",
+    "price": 1.4,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_731059-MLB47634116079_092021-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=bsrdM7MkHwPOfzhBnqocIXcWPjVo5ac%2Bnn0QqDpEEDRacvk51gawosbf0Bcl%2FQILijXkL1Wl7MVFUksoAM8%2BhhmRulOK6p8ql%2F1in5VL95hJulGdG7VEolutsLtvIYGngtALnrArRxDHwYCKRuBrU2MtTM8QtxDN4MoOEdYJjpSeCpEV8MC41M4iu0%2BseWplOQZCtnlKxTgo8rgImFcSebjeWx0Wn2EdLzC%2BteviAezbctJ9byxFGaZ%2Fgp%2FAK2hW%2BZ9xqY236D822gG9wgpy3jgWHQbh9bVlelSPjnD1xlntbI7Q%2BB2rhDM7EJG8ovTqW6%2BanRQuS0SRyk2%2FoT7lBgamEWM7A4Dp1U0H6lCIUKVUXU8uMfF8Vta1AoUa5vAyALN1vZiZXmmnotDaUI2TbrCnWHuuRSZPe3mcPGz83Fl6a2em0IcQIKpD70phvh6AjXnJMtE5ZShNu2yGIMLCGrxxLJF7p4SAFodnnJq0WAubUeFefPkLquXE9S8IhRzm0%2FqZu9YHuVSqqmDSCqbSVdeUQlncJD4lXcez1j09lgqElKIreJ26gj4v7r4AUv%2BZP%2FCN4NlaIgeFpmU%2BuyzO0jAaLRio5tmJnAxvuwG5HaDg3JGerrvHtTmK%2BdFttiwaQsNUWNICN1XJr52DEPAfjdPaeTjagNMaLKGWrWpDhis5SagDiGadAXcQ61TGyC4715QSaKaWeZGKmaoFLnykNQKwi198gXkdnXlT253jXUVbYeoaldxQEdoOIqCl5YLKASdqQZ3OQsEiwehzz37DFLeUzOlco9968XRhew%3D%3D&rb=x"
+  },
+  {
+    "description": "Monitor gamer Philips V 221V8 LCD 21.5 \" preto 100V/240V",
+    "price": 999,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_657002-MLA48689496628_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/monitor-gamer-philips-v-221v8-lcd-215-preto-100v240v/p/MLB18606777?pdp_filters=category:MLB1658#searchVariation=MLB18606777&position=24&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax OC Series GeForce RTX 30 Series RTX 3070 37NSL6MD2KCH 8GB",
+    "price": 3.669,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_699001-MLA51742924292_092022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-oc-series-geforce-rtx-30-series-rtx-3070-37nsl6md2kch-8gb/p/MLB18595238?pdp_filters=category:MLB1658#searchVariation=MLB18595238&position=25&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Pcyes Graffiti Series Radeon RX 500 Series RX 550 PAJRX550DR5DF 4GB",
+    "price": 800,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_939626-MLA50400605061_062022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-graffiti-series-radeon-rx-500-series-rx-550-pajrx550dr5df-4gb/p/MLB18922832?pdp_filters=category:MLB1658#searchVariation=MLB18922832&position=26&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce RTX 30 Series RTX 3060 Ti 36ISL6MD1VQW 8GB",
+    "price": 3,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_831146-MLA48158909207_112021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-30-series-rtx-3060-ti-36isl6md1vqw-8gb/p/MLB18438237?pdp_filters=category:MLB1658#searchVariation=MLB18438237&position=27&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce GTX 16 Series GTX 1660 60SRH7DSY91C 6GB",
+    "price": 1.546,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_695979-MLA40023007473_122019-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-gtx-16-series-gtx-1660-60srh7dsy91c-6gb/p/MLB14947754?pdp_filters=category:MLB1658#searchVariation=MLB14947754&position=28&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
     "description": "Placa de vídeo Nvidia Galax GeForce 700 Series GT 710 71GPF4HI00GX 2GB",
     "price": 329.9,
     "img": "https://http2.mlstatic.com/D_NQ_NP_619670-MLA44091190756_112020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-700-series-gt-710-71gpf4hi00gx-2gb/p/MLB15981655?pdp_filters=category:MLB1658#searchVariation=MLB15981655&position=36&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-700-series-gt-710-71gpf4hi00gx-2gb/p/MLB15981655?pdp_filters=category:MLB1658#searchVariation=MLB15981655&position=29&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   },
   {
-    "description": "Placa de vídeo AMD Pcyes Radeon R5 200 Series R5 230 PA230R502D3LW 2GB",
-    "price": 302,
-    "img": "https://http2.mlstatic.com/D_NQ_NP_835721-MLA43058319668_082020-W.webp",
-    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-radeon-r5-200-series-r5-230-pa230r502d3lw-2gb/p/MLB15846398?pdp_filters=category:MLB1658#searchVariation=MLB15846398&position=37&search_layout=grid&type=product&tracking_id=f4918676-d827-4c66-bf35-5a167850dcd8"
+    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 30 Series RTX 3060 GEFORCE RTX 3060 VENTUS 3X 12G OC 12GB",
+    "price": 2.928,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_667938-MLA48657941510_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-30-series-rtx-3060-geforce-rtx-3060-ventus-3x-12g-oc-12gb/p/MLB18623930?pdp_filters=category:MLB1658#searchVariation=MLB18623930&position=30&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gigabyte GeForce GTX 16 Series GTX 1660 SUPER GV-N166SOC-6GD OC Edition 6GB",
+    "price": 2.14,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_718969-MLA50134912442_052022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-geforce-gtx-16-series-gtx-1660-super-gv-n166soc-6gd-oc-edition-6gb/p/MLB15399454?pdp_filters=category:MLB1658#searchVariation=MLB15399454&position=31&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Knup GeForce GTX 500 Series GTX 550 Ti KP-GTX550TI 1GB",
+    "price": 440,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_646268-MLA51618199696_092022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-knup-geforce-gtx-500-series-gtx-550-ti-kp-gtx550ti-1gb/p/MLB19615416?pdp_filters=category:MLB1658#searchVariation=MLB19615416&position=32&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Dex GeForce 500 Series GTX 550 Ti PV-05 1GB",
+    "price": 539,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_612805-MLA43205241603_082020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-dex-geforce-500-series-gtx-550-ti-pv-05-1gb/p/MLB15700718?pdp_filters=category:MLB1658#searchVariation=MLB15700718&position=33&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Afox Radeon RX 500 Series RX 550 AFRX550-4096D5H4-V5 4GB",
+    "price": 926,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_888516-MLA48658819664_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-afox-radeon-rx-500-series-rx-550-afrx550-4096d5h4-v5-4gb/p/MLB18470582?pdp_filters=category:MLB1658#searchVariation=MLB18470582&position=34&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa De Vídeo Pcyes Amd Radeon Hd 5450 1gb 64bits Ddr3 Dx11",
+    "price": 269.45,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_718331-MLB31098288396_062019-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=G1NYcU0CYswKubOFHh7SQgt8IWVwDm1i8U43S9c8bEn4olAkJEOBn2TNgti06IsgsPhab08Fo%2FH%2FscuQjpgNAtDNQ0sndb0SCsPqLs2GUqO%2Fx2%2BvY%2FRPE8HDPCQOM1%2FBwkUEfUuyapexVwVHOih5C9bzZJ6oHYK%2BTjF%2F%2BLtd92XgAn1z%2FatYQj4s03hxvEeH%2FCrzSccGG6vC9kw500V0Zrx%2BENqlcxlXS6mP5UPszkkCoBy9lFQHSrx9ScY%2Bl2hI5h6Hj5%2Fxc1ldcdg0x6f4cyDWsxkptSfyvzfsuDK5k8kOxznattqr1nPx4Bmlp%2FpN5bIdAu6rgp7OiLxDM%2BynQsABVPKm5ptcaqsGV8d43zQCk%2FJdqGp8ZjBbdLBPE11eWjr5qh9OQ5Rx4JxrYu5ZBsNK11CGMgG7qtkHcZdMG6sbYCqsAqg9VF6C1GSZ2Y88DQoVjX%2BOpWtPJRGVSg56jLyBcbhiWohutOWRSSsRBB%2F3T83OYFXB3SAumI2iL9hhAdi2BiUjTHCTw2sopglbz5q%2FbTlH0PIRmXE2n%2FCsNkU2LjLVknbFI%2FkI0PU1d1U5S8M8xfRNegHE0fd3HDZkBfF0j6kgPz0KVmNwhtcKRueUIL9TDTExYTnZOkZv%2BkXd1CKOe9bjiJ%2BtisDVQ5akqGv5lX6DagETcbyJUyGJpb468iUDvLeaVV0am5On22rgK9B%2FOdnlDxAn%2F98kMuR8eFbAnnBtryaxBScqkf%2FKMZqb%2FNQoHGUhnm9%2B%2BQrhkbu4IjElBhhUZ2As0uK1iV2E66VXAexE7ncn6ZAQfC0rYvVUxg%3D%3D&rb=x"
+  },
+  {
+    "description": "Placa De Video R5 230 2gb Ddr3 Pcyes Low Profile",
+    "price": 344.99,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_696421-MLA50877053051_072022-W.webp",
+    "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=JnGJplnOmt8kiUfI7uAyh5EjUU0ZbvX6hDRb9Eh%2Fkt8FteYwXilzdgVGN9S83nJ3oIjyKbsu8EZKgAlX9zQvDO6966AG%2FPV%2FeRza6bfXHJ%2BAVgaqKIc35WsNKiW0qWg2J7HplvQSFZv2FGv3NkkmiUgBm98UDAI5WcvOKLBuvB6Dh4m0vOT%2FarBeRcqYs0tzwuuk3OurRX1ZJmJvgOZa7cXjXkNIDKVL0sl69r6UsXhRvOFqskHDJQdfdIiEbDGTXKZ%2BpNL9UrGLbelQCEtkBNMqA4n%2BCYgV6QmgarBo4JZte9EiTlpuF6qr6KN445g0rP0P6E91Z9OWcigfCYf1vXBeiZMAd0Y77vtXJrJXGnI0VsH%2BjQ62H%2BDWKLixauza%2F7HhIXv77P9kkwxvAOrrgci6E2jgQ8mYTKzGOl2ZQ0xqf%2BiIZCy2l8FhafZcedcloVmLi4DeTB0i9BX9MQngFkJJ927IGKeAzkmMMp%2B%2FrtZnTZ1aU6MyOG9cb3IY15mkTe8I42cp8oWuLjRKBDCYldVk%2BTwFpc95d1HiYhmKnBSUpH24n6k3B4fIWVJ538%2Bm9Milkd0UF2UZmdKBFbnlTYgTQU8wkVoDftnjZmlxVPmgBmsFRIa%2BN%2FNjtvaZGytS9R1qGC1e%2F7sy33z5C5jauYWaSm1p97%2B4LhQvkVgiodBBTAG%2FPMd4igo82yh0K4hQ%2BbMHkk2zUnNfqj89HD%2FAttS84YEcpyRu%2Bo3fhsbaGPActxgPFrFGqKFrS%2FxfTUUsh%2B94S0FfbJ7nWs8IJaiMqUP3OaqT&rb=x"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gigabyte GeForce 10 Series GT 1030 GV-N1030D5-2GL 2GB",
+    "price": 898,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_791657-MLA42136065749_062020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-geforce-10-series-gt-1030-gv-n1030d5-2gl-2gb/p/MLB14140952?pdp_filters=category:MLB1658#searchVariation=MLB14140952&position=37&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce GTX 16 Series GTX 1660 SUPER 60SRL7DSY91S 6GB",
+    "price": 1.799,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_859136-MLA43566591388_092020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-gtx-16-series-gtx-1660-super-60srl7dsy91s-6gb/p/MLB15915461?pdp_filters=category:MLB1658#searchVariation=MLB15915461&position=38&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Asus Cerberus GeForce 10 Series GTX 1050 Ti CERBERUS-GTX1050TI-O4G OC Edition 4GB",
+    "price": 1.498,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_815063-MLA40033552884_122019-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-asus-cerberus-geforce-10-series-gtx-1050-ti-cerberus-gtx1050ti-o4g-oc-edition-4gb/p/MLB13875455?pdp_filters=category:MLB1658#searchVariation=MLB13875455&position=39&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia MSI Ventus GeForce RTX 20 Series RTX 2060 GEFORCE RTX 2060 VENTUS 6G OC OC Edition 6GB",
+    "price": 2.046,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_950395-MLA44911528905_022021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-geforce-rtx-20-series-rtx-2060-geforce-rtx-2060-ventus-6g-oc-oc-edition-6gb/p/MLB15171293?pdp_filters=category:MLB1658#searchVariation=MLB15171293&position=40&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Afox GeForce 600 Series GT 610 AF610-2048D3L7-V5 2GB",
+    "price": 264,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_999867-MLA48656384323_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-afox-geforce-600-series-gt-610-af610-2048d3l7-v5-2gb/p/MLB18575447?pdp_filters=category:MLB1658#searchVariation=MLB18575447&position=41&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce RTX 30 Series RTX 3060 36NOL7MD1VOC 12GB",
+    "price": 2.77,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_687287-MLA45639668389_042021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-30-series-rtx-3060-36nol7md1voc-12gb/p/MLB17716910?pdp_filters=category:MLB1658#searchVariation=MLB17716910&position=42&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Afox GeForce 200 Series G210 AF210-1024D3L5-V2 1GB",
+    "price": 217,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_724283-MLA48741165285_012022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-afox-geforce-200-series-g210-af210-1024d3l5-v2-1gb/p/MLB18576634?pdp_filters=category:MLB1658#searchVariation=MLB18576634&position=43&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gainward Ghost GeForce RTX 30 Series RTX 3050 NE63050019P1-190AB 8GB",
+    "price": 1.996,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_794493-MLA49201505373_022022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gainward-ghost-geforce-rtx-30-series-rtx-3050-ne63050019p1-190ab-8gb/p/MLB18951038?pdp_filters=category:MLB1658#searchVariation=MLB18951038&position=44&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Palit Super GP GeForce GTX 16 Series GTX 1660 NE6166S018J9-1160A-1 6GB",
+    "price": 1.852,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_843091-MLA48656867336_122021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-super-gp-geforce-gtx-16-series-gtx-1660-ne6166s018j9-1160a-1-6gb/p/MLB18557599?pdp_filters=category:MLB1658#searchVariation=MLB18557599&position=45&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo AMD Pcyes Graffiti Series Radeon RX 500 Series RX 550 PJRX550R5SF 4GB",
+    "price": 852,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_942630-MLA48158909010_112021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-amd-pcyes-graffiti-series-radeon-rx-500-series-rx-550-pjrx550r5sf-4gb/p/MLB18438241?pdp_filters=category:MLB1658#searchVariation=MLB18438241&position=46&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gainward Ghost GeForce RTX 30 Series RTX 3060 NE63060019K9-190AU 12GB",
+    "price": 2.746,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_606365-MLA45375056915_032021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gainward-ghost-geforce-rtx-30-series-rtx-3060-ne63060019k9-190au-12gb/p/MLB17462582?pdp_filters=category:MLB1658#searchVariation=MLB17462582&position=47&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Galax GeForce RTX 20 Series RTX 2060 26NRL7HP68CX 6GB",
+    "price": 1.999,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_746160-MLA49727696728_042022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-galax-geforce-rtx-20-series-rtx-2060-26nrl7hp68cx-6gb/p/MLB19046828?pdp_filters=category:MLB1658#searchVariation=MLB19046828&position=48&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gigabyte GeForce 10 Series GTX 1050 GV-N1050G1 GAMING-2GD 2GB",
+    "price": 839,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_619258-MLA48741313255_012022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-geforce-10-series-gtx-1050-gv-n1050g1-gaming-2gd-2gb/p/MLB18600984?pdp_filters=category:MLB1658#searchVariation=MLB18600984&position=49&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Afox GeForce 700 Series GT 730 AF730-4096D3L5 4GB",
+    "price": 507,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_979938-MLA44091142784_112020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-afox-geforce-700-series-gt-730-af730-4096d3l5-4gb/p/MLB16138794?pdp_filters=category:MLB1658#searchVariation=MLB16138794&position=50&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia MSI Ventus XS GeForce GTX 16 Series GTX 1660 SUPER GEFORCE GTX 1660 SUPER VENTUS XS OC OC Edition 6GB",
+    "price": 1.692,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_660805-MLA42800127326_072020-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-msi-ventus-xs-geforce-gtx-16-series-gtx-1660-super-geforce-gtx-1660-super-ventus-xs-oc-oc-edition-6gb/p/MLB15799194?pdp_filters=category:MLB1658#searchVariation=MLB15799194&position=51&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Gigabyte Vision GeForce RTX 30 Series RTX 3060 GV-N3060VISION OC-12GD (rev 2.0) OC Edition 12GB",
+    "price": 3.9,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_988446-MLA50875305856_072022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-gigabyte-vision-geforce-rtx-30-series-rtx-3060-gv-n3060vision-oc-12gd-rev-20-oc-edition-12gb/p/MLB19473176?pdp_filters=category:MLB1658#searchVariation=MLB19473176&position=52&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Palit GamingPro GeForce RTX 30 Series RTX 3080 NED3080S19IA-132AA OC Edition 10GB",
+    "price": 7.597,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_956054-MLA44846855924_022021-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-gamingpro-geforce-rtx-30-series-rtx-3080-ned3080s19ia-132aa-oc-edition-10gb/p/MLB16522065?pdp_filters=category:MLB1658#searchVariation=MLB16522065&position=53&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
+  },
+  {
+    "description": "Placa de vídeo Nvidia Palit GamingPro GeForce RTX 30 Series RTX 3070 Ti NED307T019P2-1046A 8GB",
+    "price": 4.37,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_723536-MLA48790110753_012022-W.webp",
+    "link": "https://www.mercadolivre.com.br/placa-de-video-nvidia-palit-gamingpro-geforce-rtx-30-series-rtx-3070-ti-ned307t019p2-1046a-8gb/p/MLB18510741?pdp_filters=category:MLB1658#searchVariation=MLB18510741&position=54&search_layout=grid&type=product&tracking_id=c638aee3-9f92-4c70-a62c-37a6aed7e3fd"
   }
 ]
