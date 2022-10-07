@@ -6,6 +6,8 @@ const memory = require('./repositories/memory.json');
 const videoCard = require('./repositories/video-card.json');
 const desktop = require('./repositories/desktop.json');
 const cooler = require('./repositories/cooler.json');
+const font = require('./repositories/font.json');
+const motherboard = require('./repositories/motherboard.json');
 
 routes.get('/hard-disc', (req, res)=>{
   const payload = hardDisc; 
@@ -54,6 +56,24 @@ routes.get('/desktop', (req, res)=>{
 
 routes.get('/cooler', (req, res)=>{
   const payload = cooler;
+
+  if(!payload)
+    return res.send('not found');
+
+  return res.status(400).send(payload);
+})
+
+routes.get('/font', (req, res)=>{
+  const payload = font;
+
+  if(!payload)
+    return res.send('not found');
+
+  return res.status(400).send(payload);
+})
+
+routes.get('/motherboard', (req, res)=>{
+  const payload = motherboard;
 
   if(!payload)
     return res.send('not found');
