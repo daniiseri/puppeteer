@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-const formattedImage = require('../utils/formattedImage');
 
 ; (async () => {
   const browser = await puppeteer.launch({ args: ['--no-sandbox'] });
